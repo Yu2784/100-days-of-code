@@ -1,8 +1,8 @@
 # #100DaysOfCode Log - Round 1 - Yuya Funabashi
 
-The log of my #100DaysOfCode challenge. Started on [May 30, Thursday, 2019].
+The log of my #100DaysOfCode challenge. Started on [June 03, Monday, 2019].
 
 ## Log
 
-### R1D1 
+### R1D0
 

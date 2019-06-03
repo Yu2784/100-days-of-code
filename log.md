@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 30, Thursday
+### Day 0: June 03, Monday
 
 **Today's Progress**: Gone thru a few courses on Javascript
 
